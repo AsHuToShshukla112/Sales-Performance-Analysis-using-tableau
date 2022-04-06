@@ -1,0 +1,2 @@
+# Sales-Performance-Analysis-using-tableau
+Build a dashboard that present monthly sales performance by product segment and product category to help identify the segments and categories that have met or exceeded sales targets, as well as those that have not met their sales targets. Color code the chart to identify Categories and Segments that are above or below target. Add the year of sales to the view to identify trends and outliers. Add a filter so that the user can select one, more than one, or all years.
